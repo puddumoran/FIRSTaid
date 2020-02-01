@@ -1,0 +1,16 @@
+body{
+    background-color:violet;
+
+}
+.intro{
+text-align: center;
+font-size:45px;
+}
+button{
+    width:100px;
+    height:100px;
+}
+
+button:hover{
+    color:red;
+}

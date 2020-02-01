@@ -1,0 +1,41 @@
+.container2{
+    
+    width: 1170px;
+    padding:0 15px;
+    margin:0 auto;
+  }
+  
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image:url(file:///C:/Users/win/Downloads/Blog-Types-of-Web-Dev.jpg);
+    background-size : cover;
+    color: rgb(9, 230, 163);
+    text-align: center;  
+  }
+.top-wrapper p{
+margin:3px;
+}
+
+.btn-wrapper{
+    margin:10px;
+}
+.back{
+    background-color:red;
+    width:100px;
+    font-size:28px;
+}
+
+.topic p{
+    margin:50px;
+    font-size:60px;
+}
+
+main h3{
+    text-align:center;
+}
+
+main{
+    background-color:grey;
+    color:white;
+    font-size:25px;
+}
